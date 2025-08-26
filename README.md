@@ -1,4 +1,4 @@
-# Python API Testing Demo
+# Docker-py-api
 
 This is a simple Python Flask application for testing purposes.
 
@@ -25,3 +25,8 @@ This is a simple Python Flask application for testing purposes.
 
 -   `GET /`: Returns "Hello World!"
 -   `GET /api/v1/users`: Returns a list of users.
+
+## About Me
+![Aguirre Daniels](https://github.com/daguigonz/resources/raw/main/branding/AD.png)
+- Twitter: [@daguigonz](https://x.com/daguigonz)
+- Newsletters: [aguirredaniels.com](https://aguirredaniels.com/)
