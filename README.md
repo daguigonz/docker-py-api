@@ -21,12 +21,18 @@ This is a simple Python Flask application for testing purposes.
 3.  **Access the application:**
     Once the container is running, you can access the application at [http://localhost:8080](http://localhost:8080).
 
+## Deployment on Render
+
+This application is ready to be deployed on Render. You can use the `render.yaml` file to create a new web service.
+
+The application uses Gunicorn to run the Flask application. The `CMD` instruction in the `Dockerfile` is configured to use Gunicorn.
+
 ## API Endpoints
 
 -   `GET /`: Returns "Hello World!"
 -   `GET /api/v1/users`: Returns a list of users.
 
 ## About Me
-![Aguirre Daniels](https://github.com/daguigonz/resources/raw/main/branding/AD.png)
+![Aguirre Daniels](https.github.com/daguigonz/resources/raw/main/branding/AD.png)
 - Twitter: [@daguigonz](https://x.com/daguigonz)
 - Newsletters: [aguirredaniels.com](https://aguirredaniels.com/)
